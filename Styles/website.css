@@ -1,0 +1,48 @@
+      #Nike {
+        font-weight: bold;
+        font-size: large;
+      }
+      #price {
+        font-weight: bold;
+        color: rgb(0, 118, 0);
+      }
+      .Amazon {
+        background-color: rgb(255, 216, 20);
+        color: black;
+        border: none;
+        height: 36px;
+        width: 90px;
+        border-radius: 18px;
+        margin-right: 8px;
+        cursor: pointer;
+        transition: background-color 0.15s;
+      }
+      .Amazon:hover {
+        background-color: rgb(247, 202, 0);
+      }
+      .Amazon:active {
+        opacity: 0.5;
+      }
+      .BN {
+        background-color: rgb(255, 164, 28);
+        color: black;
+        border: none;
+        height: 36px;
+        width: 80px;
+        border-radius: 18px;
+        margin-right: 8px;
+        cursor: pointer;
+        transition: background-color 0.15s;
+      }
+      .BN:hover {
+        background-color: rgb(250, 137, 0);
+      }
+      .BN:active {
+        opacity: 0.5;
+      }
+      .txt {
+        color: rgb(5, 13, 171);
+      }
+      .txt:hover {
+        color: rgb(199, 81, 31);
+      }

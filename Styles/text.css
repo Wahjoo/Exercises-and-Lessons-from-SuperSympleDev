@@ -1,0 +1,176 @@
+      p {
+        font-family: Arial;
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+      .title {
+        font-weight: bold;
+        font-size: 18px;
+        width: 280px;
+        line-height: 24px;
+        margin-bottom: 5px;
+      }
+      .stats {
+        font-size: 14px;
+        color: rgb(96, 96, 96);
+        margin-bottom: 20px;
+      }
+      .author {
+        font-size: 14px;
+        color: rgb(96, 96, 96);
+        margin-bottom: 20px;
+      }
+      .description {
+        font-size: 14px;
+        color: rgb(96, 96, 96);
+        width: 280px;
+        line-height: 22px;
+        margin-bottom: 100px;
+      }
+      .redbackground {
+        background-color: rgb(227, 65, 64);
+        color: white;
+        text-align: center;
+        padding-top: 18px;
+        padding-bottom: 18px;
+        font-size: 14px;
+        margin-bottom: 20px;
+      }
+      #shop {
+        cursor: pointer;
+      }
+      #shop:hover {
+        text-decoration: underline;
+      }
+      #Tahoma {
+        font-family: Tahoma;
+        font-weight: bold;
+        margin-bottom: 20px;
+        font-size: 20px;
+      }
+      #Deals {
+        font-weight: bold;
+        font-size: 26px;
+        margin-bottom: 8px;
+      }
+      .end {
+        font-size: 18px;
+        color: red;
+        font-style: italic;
+        margin-bottom: 20px;
+      }
+      .course {
+        font-family: Verdana;
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 3px;
+      }
+      .pro {
+        font-family: Verdana;
+        color: rgb(100, 100, 100);
+        margin-bottom: 18px;
+      }
+      .learn {
+        font-family: Verdana;
+        width: 280px;
+        margin-bottom: 18px;
+        line-height: 22px;
+      }
+      .get {
+        font-family: Verdana;
+        background-color: green;
+        color: white;
+        border-radius: 6px;
+        border: none;
+        padding: 8px 16px;
+        cursor: pointer;
+        margin-bottom: 20px;
+      }
+      #shopping {
+        font-weight: bold;
+        font-size: 28px;
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      #apple {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      .go {
+        text-align: center;
+        margin-bottom: 50px;
+        color: rgb(58, 108, 199);
+      }
+      #new {
+        color: orangered;
+        text-align: center;
+        margin-bottom: 10px;
+        font-weight: bold;
+        font-size: 13px;
+      }
+      #book {
+        text-align: center;
+        margin-bottom: 5px;
+        font-weight: bold;
+        font-size: 20px;
+      }
+      #Super {
+        text-align: center;
+        margin-bottom: 15px;
+        font-weight: bold;
+        font-size: 36px;
+      }
+      #dig {
+        text-align: center;
+        margin-bottom: 25px;
+      }
+      .buy {
+        background-color: rgb(0, 113, 227);
+        color: white;
+        padding: 7px 15px;
+        border: none;
+        border-radius: 30px;
+        font-weight: bold;
+        cursor: pointer;
+      }
+      #b {
+        text-align: center;
+        margin-bottom: 25px;
+      }
+      #price {
+        font-size: 32px;
+        margin-bottom: 5px;
+      }
+      #usd {
+        font-size: 16px;
+        color: rgb(100, 100, 100);
+      }
+      #day {
+        color: rgb(24, 128, 56);
+        margin-bottom: 8px;
+      }
+      #hour {
+        color: rgb(100, 100, 100);
+        margin-bottom: 20px;
+      }
+      #perc {
+        color: rgb(235, 39, 39);
+      }
+      #username {
+        font-weight: bold;
+        margin-bottom: 5px;
+        font-size: 18px;
+      }
+      #handle {
+        font-weight: normal;
+        color: rgb(100, 100, 100);
+      }
+      .tweet {
+        font-size: 18px;
+        width: 600px;
+        line-height: 25px;
+        margin-bottom: 20px;
+      }
+      #u2 {
+        color: rgb(29, 155, 240);
+      }

@@ -546,3 +546,37 @@
         padding: 10px;
         display: inline-block;
       }
+      #f12{
+        display: flex;
+        flex-direction: row;
+        background-color: rgb(120, 82, 178);
+        padding: 15px 15px;
+        justify-content: space-between;
+        font-family: Arial;
+        color: white;
+      }
+      #f12a{
+        font-weight: bold;
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+        align-content: center;
+      }
+      #f12b{
+        flex: 1;
+        margin-left: 80px;
+        margin-right: 80px;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 20px;
+      }
+      #f12c{
+        border: solid white 2px;
+        background: none;
+        border-radius: 2px;
+        color: white;
+        padding: 8px 15px;
+        cursor: pointer;
+        font-size: 16px;
+        
+      }
